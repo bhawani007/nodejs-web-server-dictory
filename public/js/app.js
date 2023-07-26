@@ -1,6 +1,3 @@
-console.log("load the javascript file...")
-
-
 const weatherForm = document.querySelector("form")
 const search = document.querySelector("input")
 const messageOne = document.querySelector("#message-1")
